@@ -1,0 +1,8 @@
+
+
+When creating a new class
+Do not forget to attach to reference, to index.html, and attach to play.ts
+Ex: create class bullet, reference.ts, index.html, 
+add instance variable to play.ts, which will create a new object on Start() 
+so that the object is updated every frame
+

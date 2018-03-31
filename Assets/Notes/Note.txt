@@ -1,0 +1,19 @@
+
+When creating a new class
+Do not forget to attach to reference, to index.html, and addChild to play.ts
+if you want to change the speed of the bullet Find spdX
+if you want to manage the speed at which the cyborg is coming at you check for this._interval
+
+//Document
+Change document on 0 enemy to Score - cannot get exact collision position, best to change
+support document theme - enemyBullet.ts is coming soon
+Extra Feature? document theme - coming soon cyborg on left meaning (W(key) x2 == transforms left)
+
+
+
+
+
+
+
+
+
